@@ -1,5 +1,3 @@
-package String;
-
 public class Pangram {
     //    This method replace all the whitespaces present in the String and return the String
     static String replaceWhiteSpace(String s){
